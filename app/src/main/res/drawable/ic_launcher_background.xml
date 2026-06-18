@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:pathData="M0,0h108v108h-108z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:endX="108"
+                android:endY="108"
+                android:startX="0"
+                android:startY="0"
+                android:type="linear">
+                <item
+                    android:color="#1A0D36"
+                    android:offset="0.0" />
+                <item
+                    android:color="#0C0914"
+                    android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Subtle luxury decorative background waves -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M15,15 C25,25 35,5 55,25 C75,45 85,15 108,35"
+        android:strokeWidth="0.5"
+        android:strokeColor="#2F1B6B" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M0,50 C30,70 60,30 108,70"
+        android:strokeWidth="0.5"
+        android:strokeColor="#2F1B6B" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "AuraBeat",
+  "description": "Premium offline synthesizer music player and playlist platform with beautiful sound wave visuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
